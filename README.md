@@ -1,2 +1,2 @@
 # caseTool
-This Branch is ct1 version v1.0
+Cocomo C++ program vector string is used in this program
